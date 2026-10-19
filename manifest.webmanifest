@@ -1,0 +1,9 @@
+{
+  "name": "크롬 바스 일반 · 닼메 + 세바",
+  "short_name": "크롬 2인",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#111318",
+  "theme_color": "#111318",
+  "lang": "ko"
+}
